@@ -39,7 +39,3 @@ You can find me on [**LinkedIn**](https://www.linkedin.com/in/annisareida/).
 * ✅ Strengthen my portfolio in AI and Data Science
 * ✅ Contribute to tech communities and competitions
 * ✅ Pursue further education or internship opportunities in the tech industry
-
----
-
-Let me know if you'd like to customize the tone (e.g., more casual, more formal) or add sections like favorite tools, pinned projects, or badges!
